@@ -8,6 +8,8 @@ import pymysql
 
 def hello_funct(z):
     print(z)
+    print(z)
+
 
 
 
