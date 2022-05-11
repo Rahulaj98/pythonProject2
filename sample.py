@@ -8,7 +8,7 @@ import pymysql
 
 def hello_funct(z):
     print(z)
-    print(z)
+
 
 
 # Press the green button in the gutter to run the script.
