@@ -4,7 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-import pymysql
+import mysql.connector
+from mysql.connector import Error
+
 
 def hello_funct(z):
     print(z)
